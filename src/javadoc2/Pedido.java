@@ -19,7 +19,8 @@ public class Pedido {
     public Pedido(){
         producto1 = new Producto();
         producto2 = new Producto();
-        producto3 = new Producto();
+        producto3= new Producto();
+        producto4 = new Producto();
     }
 
     /**
